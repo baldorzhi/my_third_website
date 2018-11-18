@@ -1,0 +1,32 @@
+{
+  "name": "my_third_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/baldorzhi/my_third_website.git"
+  },
+  "keywords": [
+    "front-end",
+    "beginner",
+    "html",
+    "css",
+    "gulp",
+    "npm"
+  ],
+  "author": "baldorzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baldorzhi/my_third_website/issues"
+  },
+  "homepage": "https://github.com/baldorzhi/my_third_website#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
